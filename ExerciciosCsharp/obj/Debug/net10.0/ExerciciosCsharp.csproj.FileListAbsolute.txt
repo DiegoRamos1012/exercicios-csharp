@@ -1,0 +1,14 @@
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net10.0\ExerciciosCsharp.exe
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net10.0\ExerciciosCsharp.deps.json
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net10.0\ExerciciosCsharp.runtimeconfig.json
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net10.0\ExerciciosCsharp.dll
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net10.0\ExerciciosCsharp.pdb
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.AssemblyInfoInputs.cache
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.AssemblyInfo.cs
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.dll
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\refint\ExerciciosCsharp.dll
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.pdb
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.genruntimeconfig.cache
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ref\ExerciciosCsharp.dll
