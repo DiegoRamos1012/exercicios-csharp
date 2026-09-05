@@ -29,7 +29,7 @@ namespace ExerciciosCsharp.Exercicios
 
     public class ExercicioLinq
     {
-        public readonly List<Product> products =
+        public readonly List<Product> Products =
         [
             // Games
             new ("God of War Ragnarök", 249.90, ProductCategory.Games, 10),
@@ -55,7 +55,7 @@ namespace ExerciciosCsharp.Exercicios
 
         public void ProductsAbovePrice100()
         {
-            var productsAbovePrice100 = products
+            var productsAbovePrice100 = Products
                 .Where(product => product.Price > 100)
                 .ToList();
 
@@ -67,7 +67,7 @@ namespace ExerciciosCsharp.Exercicios
 
         public void ProductsGroupedByCategory()
         {
-            var productsGroupedByCategory = products
+            var productsGroupedByCategory = Products
                 .GroupBy(product => product.Category)
                 .ToList();
 
@@ -84,7 +84,7 @@ namespace ExerciciosCsharp.Exercicios
 
         public void CalculateAllStockValue()
         {
-            var calculatedGAllStockValue = products
+            var calculatedGAllStockValue = Products
                 .Sum(product => product.Price * product.Stock);
 
             Console.WriteLine(calculatedGAllStockValue.ToString("C2", CultureInfo.GetCultureInfo("pt-BR")));
@@ -92,7 +92,7 @@ namespace ExerciciosCsharp.Exercicios
 
         public void FindMostExpensiveProductInCategory()
         {
-            var findMostExpensiveProductInCategory = products
+            var findMostExpensiveProductInCategory = Products
                 .GroupBy(product => product.Category)
                 .Select(group => group.OrderByDescending(product => product.Price).First());
 
@@ -107,10 +107,10 @@ namespace ExerciciosCsharp.Exercicios
 
         public void VerifyAnyProductWithEmptyStock()
         {
-            var hasEmptyStock = products
+            var hasEmptyStock = Products
                 .Any(product => product.Stock == 0);
 
-            var productsWithEmptyStock = products
+            var productsWithEmptyStock = Products
                 .Where(product => product.Stock == 0)
                 .ToList();
 

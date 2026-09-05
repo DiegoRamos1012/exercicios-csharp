@@ -92,7 +92,7 @@ public class ExercicioAsync
     {
         await Task.Delay(1000);
 
-        return _exercicioLinq.products
+        return _exercicioLinq.Products
             .FirstOrDefault(product => product.Name == nome);
     }
     

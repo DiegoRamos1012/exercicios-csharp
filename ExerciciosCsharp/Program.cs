@@ -27,4 +27,5 @@ var exercicioDelegate = new ExercicioDelegate();
 /* Delegate */
 
 // exercicioDelegate.Executar();
-    
+
+exercicioDelegate.ExecuteFilters();

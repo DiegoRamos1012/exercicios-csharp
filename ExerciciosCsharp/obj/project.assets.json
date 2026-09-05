@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Windows\\.nuget\\packages\\": {}
+    "C:\\Users\\Diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows\\RiderProjects\\ExerciciosCsharp\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\RiderProjects\\exercicios-csharp\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
       "projectName": "ExerciciosCsharp",
-      "projectPath": "C:\\Users\\Windows\\RiderProjects\\ExerciciosCsharp\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
-      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows\\RiderProjects\\ExerciciosCsharp\\ExerciciosCsharp\\obj\\",
+      "projectPath": "C:\\Users\\Diego\\RiderProjects\\exercicios-csharp\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
+      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Diego\\RiderProjects\\exercicios-csharp\\ExerciciosCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Windows\\.dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\Diego\\.dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
