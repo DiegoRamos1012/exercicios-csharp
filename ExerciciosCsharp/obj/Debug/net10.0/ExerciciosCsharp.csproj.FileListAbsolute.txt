@@ -12,3 +12,4 @@ C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10
 C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.pdb
 C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.genruntimeconfig.cache
 C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ref\ExerciciosCsharp.dll
+C:\Users\Windows\RiderProjects\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net10.0\ExerciciosCsharp.sourcelink.json

@@ -2,6 +2,7 @@
 
 var exercicioLinq = new ExercicioLinq();
 var exercicioAsync = new ExercicioAsync();
+var exercicioDelegate = new ExercicioDelegate();
 
 /* LINQ */
 
@@ -19,7 +20,11 @@ var exercicioAsync = new ExercicioAsync();
 
 // await exercicioAsync.ExecutarBuscarDado();
 
-await exercicioAsync.ExecutarAsync();
+// await exercicioAsync.ExecutarAsync();
 
-await exercicioAsync.BuscarProdutoPorNomeAsync("Elden Ring");
+// await exercicioAsync.BuscarProdutoPorNomeAsync("Elden Ring");
 
+/* Delegate */
+
+// exercicioDelegate.Executar();
+    
