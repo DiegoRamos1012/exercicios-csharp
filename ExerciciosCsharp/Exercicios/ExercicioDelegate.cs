@@ -28,7 +28,8 @@ public void Execute()
 */
 
 // Instância da classe que contém a lista de produtos.
-    private static readonly ExercicioLinq _products = new();
+    private static readonly
+        ExercicioLinq _products = new();
 
 // Delegate que recebe uma lista de produtos e retorna uma lista filtrada.
     private delegate List<Product> FilterProducts(List<Product> products);
