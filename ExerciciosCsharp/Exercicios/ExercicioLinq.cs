@@ -19,12 +19,14 @@ namespace ExerciciosCsharp.Exercicios
         string name,
         double price,
         ProductCategory category,
-        int stock)
+        int stock) : ExercicioGenerics.IWithStock
     {
         public string Name { get; private set; } = name;
         public double Price { get; private set; } = price;
         public ProductCategory Category { get; private set; } = category;
         public int Stock { get; private set; } = stock;
+        
+        public int CurrentStock => Stock;
     }
 
     public class ExercicioLinq
