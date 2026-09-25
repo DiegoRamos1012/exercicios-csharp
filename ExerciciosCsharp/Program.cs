@@ -28,4 +28,6 @@ var exercicioDelegate = new ExercicioDelegate();
 
 // exercicioDelegate.Executar();
 
-exercicioDelegate.ExecuteFilters();
+// exercicioDelegate.ExecuteFilters();
+
+new ExercicioEvento().Executar();
