@@ -1,8 +1,8 @@
 ﻿using ExerciciosCsharp.Exercicios;
 
-var exercicioLinq = new ExercicioLinq();
-var exercicioAsync = new ExercicioAsync();
-var exercicioDelegate = new ExercicioDelegate();
+// var exercicioLinq = new ExercicioLinq();
+// var exercicioAsync = new ExercicioAsync();
+// var exercicioDelegate = new ExercicioDelegate();
 
 /* LINQ */
 
@@ -30,4 +30,10 @@ var exercicioDelegate = new ExercicioDelegate();
 
 // exercicioDelegate.ExecuteFilters();
 
-new ExercicioEvento().Executar();
+/* Eventos */
+
+// new ExercicioEvento().Executar();
+
+/* Interfaces */
+
+new ExercicioInterface().Execute();
