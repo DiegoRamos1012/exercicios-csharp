@@ -70,8 +70,21 @@ public class ExercicioInterface
     {
         var employees = new List<Employee>
         {
+            // CLT
             new CltEmployee("Alberto da Silva", 4500),
-            new CommissionedEmployee("Maria Cristina", 5500, 4530.23, 10)
+            new CltEmployee("Fernanda Oliveira", 3200),
+            new CltEmployee("Ricardo Mendes", 7800),
+            new CltEmployee("Juliana Costa", 5100),
+            new CltEmployee("Carlos Eduardo", 6250),
+
+            // Comissionados
+            new CommissionedEmployee("Maria Cristina", 5500, 4530.23, 10),
+            new CommissionedEmployee("Lucas Ferreira", 3800, 2750.50, 7),
+            new CommissionedEmployee("Patrícia Almeida", 6200, 8100.75, 12),
+            new CommissionedEmployee("Rafael Santos", 4500, 3200.00, 8),
+            new CommissionedEmployee("Camila Rodrigues", 7000, 12500.90, 15),
+
+            // Outros tipos...
         };
 
         foreach (var employee in employees)
