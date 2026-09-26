@@ -36,4 +36,8 @@
 
 /* Interfaces */
 
-new ExercicioInterface().Execute();
+// new ExercicioInterface().Execute();
+
+/* Pattern Matching */
+
+new ExercicioPatternMatching().Execute();
