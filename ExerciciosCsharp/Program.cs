@@ -44,4 +44,9 @@
 
 /* Nullable Reference Types */
 
-new ExercicioNullable().Execute();
+// new ExercicioNullable().Execute();
+
+/* Exceptions */
+
+new ExercicioException().Execute();
+await new ExercicioException().ExecuteSearch();
