@@ -48,5 +48,9 @@
 
 /* Exceptions */
 
-new ExercicioException().Execute();
-await new ExercicioException().ExecuteSearch();
+// new ExercicioException().Execute();
+// await new ExercicioException().ExecuteSearch();
+
+/* Injeção de Dependência (DI) */
+
+new ExercicioDi().Execute();
